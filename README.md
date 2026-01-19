@@ -1,2 +1,3 @@
 # class1-medo
-This is our first repository
+This is our first repository.
+Author-MITHILESH KUMAR
